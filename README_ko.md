@@ -21,7 +21,7 @@
 
 ## 📦 설치 및 구성
 
-설치 및 구성 방법은 [setup.md](/doc/setup_en.md)를 참고하세요.
+설치 및 구성 방법은 [setup_ko.md](doc/setup_ko.md)를 참고하세요.
 
 ## 🔁 전체 과정
 
